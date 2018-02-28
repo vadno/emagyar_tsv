@@ -1,0 +1,11 @@
+1	A	a	Det	SubPOS=f	2	DET
+2	kisfiú	kisfiú	N	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	3	SUBJ
+3	meglátta	meglát	V	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=y		
+4	a	a	Det	SubPOS=f	5	DET
+5	bácsit	bácsi	N	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	3	OBJ
+6	.	.	.	_	3	ATT
+						
+1	Odament	odamegy	V	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n		
+2	hozzá	ő	N	SubPOS=c|Num=s|Cas=t|NumP=none|PerP=none|NumPd=none	1	OBL
+3	.	.	.	_	1	ATT
+						
