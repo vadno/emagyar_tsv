@@ -1,0 +1,21 @@
+e-magyar xml -- tsv konverter
+
+bemenet:
+    e-magyarral megelemzett szöveg (XML)
+    emagyar_out mappából veszi
+kimenet:
+    magyarlánc-like TSV
+    emw_out mappába teszi
+
+használat:
+    emagyar_out mappában az xml-ek
+    bash szkript futtat
+
+TSV: 7 mező tabbal elválasztva
+    1. folytatólagos index mondatoknént
+    2. szóalak
+    3. szótő
+    4. pos
+    5. morfológia
+    6. függőgég indexe
+    7. függőség típusa
