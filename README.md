@@ -9,13 +9,17 @@ XML output of e-magyar.
 ## arg2: output
 
 TSV file in which one line corresponds to one token and sentences are separated by an empty line. The file contains seven columns:
-1. the identifier of the word within the sentence
-1. wordform
+1. ID
+1. StartNode
+1. EndNode
+1. string
+1. anas
 1. lemma
-1. part of speech
-1. morphological features
-1. the identifier of the parent node
-1. the dependency label
+1. pos
+1. hfstana
+1. feature
+1. depTarget
+1. depType
 
 ## Dependencies
 
