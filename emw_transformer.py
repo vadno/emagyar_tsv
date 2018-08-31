@@ -81,8 +81,8 @@ def print_tsv(tsv_annot, ofile):
 
 def main():
 
-    ifile = 'maistanultam_1_emw_emdep.xml'
-    ofile = 'maistanultam_1_emw_emdep.tsv'
+    ifile = sys.argv[1]
+    ofile = sys.argv[1] + '.tsv'
     tsv_annot = xml_parse(ifile)
     print_tsv(tsv_annot, ofile)
 
