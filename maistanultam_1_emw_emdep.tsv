@@ -1,0 +1,241 @@
+0	0	10	Nyaralásra	{ana=nyaral[/V]=nyaral+ás[_Ger/N]=ás+ra[Subl]=ra, feats=[/N][Subl], lemma=nyaralás};{ana=nyaralás[/N]=nyaralás+ra[Subl]=ra, feats=[/N][Subl], lemma=nyaralás}	nyaralás	N	[/N][Subl]	SubPOS=c|Num=s|Cas=s|NumP=none|PerP=none|NumPd=none	12	OBL
+2	11	15	néha	{ana=néha[/Adv]=néha, feats=[/Adv], lemma=néha}	néha	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	12	TLOCY
+4	16	25	repülővel	{ana=repül[/V]=repül+ő[_ImpfPtcp/Adj]=ő+vel[Ins]=vel, feats=[/Adj][Ins], lemma=repülő};{ana=repülő[/N]=repülő+vel[Ins]=vel, feats=[/N][Ins], lemma=repülő}	repülő	N	[/N][Ins]	SubPOS=c|Num=s|Cas=i|NumP=none|PerP=none|NumPd=none	12	OBL
+6	26	31	utazó	{ana=utaz[/V]=utaz+ó[_ImpfPtcp/Adj]=ó+[Nom], feats=[/Adj][Nom], lemma=utazó};{ana=utazik[/V]=utaz+ó[_ImpfPtcp/Adj]=ó+[Nom], feats=[/Adj][Nom], lemma=utazó};{ana=utazó[/N]=utazó+[Nom], feats=[/N][Nom], lemma=utazó};{ana=út[/N]=ut+az[_NVbz_Tr:z/V]=az+ó[_ImpfPtcp/Adj]=ó+[Nom], feats=[/Adj][Nom], lemma=utazó}	utazó	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	10	ATT
+8	32	39	európai	{ana=Európa[/N]=európa+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=európai};{ana=európai[/Adj]=európai+[Nom], feats=[/Adj][Nom], lemma=európai}	európai	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	10	ATT
+10	40	51	turistaként	{ana=turista[/N]=turista+ként[EssFor:ként]=ként, feats=[/N][EssFor:ként], lemma=turista}	turista	N	[/N][EssFor:ként]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	12	OBL
+12	52	68	hozzászokhattunk	{ana=hozzá[/Prev]=hozzá+szokik[/V]=szok+hat[_Mod/V]=hat+tunk[Pst.NDef.1Pl]=tunk, feats=[/V][_Mod/V][Pst.NDef.1Pl], lemma=hozzászokik}	hozzászokik	V	[/V][_Mod/V][Pst.NDef.1Pl]	SubPOS=o|Mood=i|Tense=s|Per=none|Num=none|Def=none		
+13	68	69	,	None	,	,	OTHER	_	12	ATT
+15	70	74	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy}	hogy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	12	CONJ
+17	75	76	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	19	DET
+19	77	83	reptér	{ana=reptér[/N]=reptér+[Nom], feats=[/N][Nom], lemma=reptér}	reptér	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	40	SUBJ
+21	84	91	egyenlő	{ana=egyenlő[/Adj]=egyenlő+[Nom], feats=[/Adj][Nom], lemma=egyenlő}	egyenlő	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	27	ATT
+23	92	95	egy	{ana=egy[/Det|art.NDef]=egy, feats=[/Det|art.NDef], lemma=egy};{ana=egy[/Num]=egy+[Nom], feats=[/Num][Nom], lemma=egy};{ana=egy[/N|Pro]=egy+[Nom], feats=[/N|Pro][Nom], lemma=egy}	egy	Det	[/Det|art.NDef]	SubPOS=f	27	DET
+25	96	100	nagy	{ana=nagy[/Adj]=nagy+[Nom], feats=[/Adj][Nom], lemma=nagy};{ana=nagy[/Adv|AdjMod]=nagy, feats=[/Adv|AdjMod], lemma=nagy}	nagy	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	27	ATT
+27	101	110	épülettel	{ana=épület[/N]=épület+tel[Ins]=tel, feats=[/N][Ins], lemma=épület}	épület	N	[/N][Ins]	SubPOS=c|Num=s|Cas=i|NumP=none|PerP=none|NumPd=none	40	OBL
+28	110	111	,	None	,	,	OTHER	_	40	ATT
+30	112	115	ami	{ana=ami[/Det|Pro|Rel]=ami, feats=[/Det|Pro|Rel], lemma=ami};{ana=ami[/N|Pro|Rel]=ami+[Nom], feats=[/N|Pro|Rel][Nom], lemma=ami}	ami	N	[/N|Pro|Rel][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	32	ATT
+32	116	123	mellett	{ana=mellett[/Post]=mellett, feats=[/Post], lemma=mellett}	mellett	Post	[/Post]	SubPOS=t	40	LOCY
+34	124	130	óriási	{ana=óriás[/N]=óriás+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=óriási};{ana=óriási[/Adj]=óriási+[Nom], feats=[/Adj][Nom], lemma=óriási}	óriási	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	38	ATT
+36	131	134	sík	{ana=sí[/N]=sí+k[Pl]=k+[Nom], feats=[/N][Pl][Nom], lemma=sí};{ana=sík[/Adj]=sík+[Nom], feats=[/Adj][Nom], lemma=sík};{ana=sík[/N]=sík+[Nom], feats=[/N][Nom], lemma=sík}	sík	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	38	ATT
+38	135	142	terület	{ana=terület[/N]=terület+[Nom], feats=[/N][Nom], lemma=terület}	terület	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	40	SUBJ
+40	143	150	húzódik	{ana=húz[/V]=húz+ódik[_MedPass/V]=ód+ik[Prs.NDef.3Sg]=ik, feats=[/V][Prs.NDef.3Sg], lemma=húzódik};{ana=húzódik[/V]=húzód+ik[Prs.NDef.3Sg]=ik, feats=[/V][Prs.NDef.3Sg], lemma=húzódik}	húzódik	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	15	ATT
+41	150	151	,	None	,	,	OTHER	_	51	ATT
+43	152	156	ahol	{ana=ahol[/Adv|Pro|Rel]=ahol, feats=[/Adv|Pro|Rel], lemma=ahol}	ahol	Adv	[/Adv|Pro|Rel]	SubPOS=x|Deg=none|Num=none|Per=none	51	LOCY
+45	157	158	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	47	DET
+47	159	164	gépek	{ana=gép[/N]=gép+ek[Pl]=ek+[Nom], feats=[/N][Pl][Nom], lemma=gép}	gép	N	[/N][Pl][Nom]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	51	SUBJ
+49	165	176	kényelmesen	{ana=kényelem[/N]=kényelm+es[_Adjz:s/Adj]=es+en[Supe]=en, feats=[/Adj][Supe], lemma=kényelmes};{ana=kényelem[/N]=kényelm+es[_Adjz:s/Adj]=es+en[_Manner/Adv]=en, feats=[/Adj][_Manner/Adv], lemma=kényelmes};{ana=kényelem[/N]=kényelm+es[_Nz:s/N]=es+en[Supe]=en, feats=[/N][Supe], lemma=kényelmes};{ana=kényelmes[/Adj]=kényelmes+en[Supe]=en, feats=[/Adj][Supe], lemma=kényelmes};{ana=kényelmes[/Adj]=kényelmes+en[_Manner/Adv]=en, feats=[/Adj][_Manner/Adv], lemma=kényelmes}	kényelmes	Adj	[/Adj][_Manner/Adv]	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	51	MODE
+51	177	180	le-	{ana=le[/Prev]=le+-[Hyph:Hyph]=-, feats=[/Prev][Hyph:Hyph], incorrect=1, lemma=le<incorrect word>};{ana=le[/X]=le+-[Hyph:Hyph]=-, feats=[/X][Hyph:Hyph], incorrect=1, lemma=le<incorrect word>}	le<incorrect_word>	Prev	[/Prev][Hyph:Hyph]	_	40	PREVERB
+53	181	183	és	{ana=és[/Cnj]=és, feats=[/Cnj], lemma=és}	és	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	40	CONJ
+55	184	198	felszállhatnak	{ana=fel[/Prev]=fel+száll[/V]=száll+hat[_Mod/V]=hat+nak[Prs.NDef.3Pl]=nak, feats=[/V][_Mod/V][Prs.NDef.3Pl], lemma=felszáll}	felszáll	V	[/V][_Mod/V][Prs.NDef.3Pl]	SubPOS=o|Mood=i|Tense=p|Per=3|Num=p|Def=n	53	COORD
+56	198	199	,	None	,	,	OTHER	_	55	ATT
+58	200	207	mielőtt	{ana=mielőtt[/Adv|Pro|Rel]=mielőtt, feats=[/Adv|Pro|Rel], lemma=mielőtt}	mielőtt	Adv	[/Adv|Pro|Rel]	SubPOS=x|Deg=none|Num=none|Per=none	55	CONJ
+60	208	212	vagy	{ana=vagy[/Adv]=vagy, feats=[/Adv], lemma=vagy};{ana=vagy[/Cnj]=vagy, feats=[/Cnj], lemma=vagy};{ana=van[/V]=vagy+[Prs.NDef.2Sg], feats=[/V][Prs.NDef.2Sg], lemma=van}	vagy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	58	CONJ
+62	213	219	miután	{ana=miután[/Adv|Pro]=miután, feats=[/Adv|Pro], lemma=miután};{ana=miután[/Adv|Pro|Rel]=miután, feats=[/Adv|Pro|Rel], lemma=miután}	miután	Adv	[/Adv|Pro|Rel]	SubPOS=x|Deg=none|Num=none|Per=none	60	COORD
+64	220	223	jól	{ana=jó[/Adj]=jó+l[_Manner/Adv]=l, feats=[/Adj][_Manner/Adv], lemma=jó}	jó	Adj	[/Adj][_Manner/Adv]	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	66	MODE
+66	224	234	kigurulták	{ana=ki[/Prev]=ki+gurul[/V]=gurul+ta[_PerfPtcp_Subj=tA/Adj]=tá+k[Pl]=k+[Nom], feats=[_PerfPtcp_Subj=tA/Adj][Pl][Nom], lemma=kigurulta};{ana=ki[/Prev]=ki+gurul[/V]=gurul+ták[Pst.Def.3Pl]=ták, feats=[/V][Pst.Def.3Pl], lemma=kigurul}	kigurul	V	[/V][Pst.Def.3Pl]	SubPOS=m|Mood=i|Tense=s|Per=3|Num=p|Def=y	62	ATT
+68	235	242	magukat	{ana=maga[/N|Pro]=mag+uk[3Pl]=uk+at[Acc]=at, feats=[/N|Pro][3Pl][Acc], lemma=maga}	maga	N	[/N|Pro][3Pl][Acc]	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	66	OBJ
+70	243	244	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	74	DET
+72	245	251	hosszú	{ana=hossz[/N]=hossz+ú[_Adjz:Ú/Adj]=ú+[Nom], feats=[/N][_Adjz:Ú/Adj][Nom], lemma=hossz};{ana=hosszú[/Adj]=hosszú+[Nom], feats=[/Adj][Nom], lemma=hosszú}	hosszú	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	74	ATT
+74	252	258	pályán	{ana=pálya[/N]=pályá+n[Supe]=n, feats=[/N][Supe], lemma=pálya}	pálya	N	[/N][Supe]	SubPOS=c|Num=s|Cas=p|NumP=none|PerP=none|NumPd=none	66	OBL
+75	258	259	.	None	.	.	OTHER	_	58	ATT
+										
+78	260	262	Na	{ana=Na[/N|Abbr|ChemSym]=Na+[Nom], feats=[/N][Nom], lemma=Na};{ana=na[/Inj-Utt]=na, feats=[/Inj-Utt], lemma=na}	na	Inj-Utt	[/Inj-Utt]	SubPOS=o	81	MODE
+79	262	263	,	None	,	,	OTHER	_	81	ATT
+81	264	266	ha	{ana=ha[/Cnj]=ha, feats=[/Cnj], lemma=ha};{ana=ha[/Inj-Utt]=ha, feats=[/Inj-Utt], lemma=ha};{ana=ha[/N|Unit|Abbr]=ha+[Nom], feats=[/N][Nom], lemma=ha}	ha	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	116	CONJ
+83	267	274	egyszer	{ana=egy[/Num]=egy+szer[_Mlt-Iter/Adv]=szer, feats=[/Num][_Mlt-Iter/Adv], lemma=egy};{ana=egyszer[/Adv]=egyszer, feats=[/Adv], lemma=egyszer}	egyszer	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	85	TLOCY
+85	275	284	megadatik	{ana=meg[/Prev]=meg+ad[/V]=ad+atik[_Pass/V]=at+ik[Prs.NDef.3Sg]=ik, feats=[/V][Prs.NDef.3Sg], lemma=megadatik};{ana=meg[/Prev]=meg+adatik[/V]=adat+ik[Prs.NDef.3Sg]=ik, feats=[/V][Prs.NDef.3Sg], lemma=megadatik}	megadatik	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	81	ATT
+87	285	290	önnek	{ana=ön[/N|Pro]=ön+nek[Dat]=nek, feats=[/N|Pro][Dat], lemma=ön}	ön	N	[/N|Pro][Dat]	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	85	DAT
+88	290	291	,	None	,	,	OTHER	_	85	ATT
+90	292	296	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy}	hogy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	85	CONJ
+92	297	309	ellátogathat	{ana=el[/Prev]=el+lát[/V]=lát+ogat[_Freq/V]=ogat+hat[_Mod/V]=hat+[Prs.NDef.3Sg], feats=[/V][_Freq/V][_Mod/V][Prs.NDef.3Sg], lemma=ellát};{ana=el[/Prev]=el+látogat[/V]=látogat+hat[_Mod/V]=hat+[Prs.NDef.3Sg], feats=[/V][_Mod/V][Prs.NDef.3Sg], lemma=ellátogat}	ellátogat	V	[/V][_Mod/V][Prs.NDef.3Sg]	SubPOS=o|Mood=i|Tense=p|Per=3|Num=s|Def=n	90	ATT
+94	310	318	Bhutánba	{ana=Bhután[/N]=Bhután+ba[Ill]=ba, feats=[/N][Ill], lemma=Bhután}	Bhután	N	[/N][Ill]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	92	OBL
+95	318	319	,	None	,	,	OTHER	_	92	ATT
+97	320	325	akkor	{ana=akkor[/Adv|Pro]=akkor, feats=[/Adv|Pro], lemma=akkor};{ana=az[/Det|Pro]=ak+kor[Temp]=kor, feats=[/Det|Pro][Temp], lemma=az};{ana=az[/N|Pro]=ak+kor[Temp]=kor, feats=[/N|Pro][Temp], lemma=az}	akkor	Adv	[/Adv|Pro]	SubPOS=d|Deg=none|Num=none|Per=none	92	TLOCY
+99	326	333	mindezt	{ana=mindez[/Det|Pro]=mindez+t[Acc]=t, feats=[/Det|Pro][Acc], lemma=mindez};{ana=mindez[/N|Pro]=mindez+t[Acc]=t, feats=[/N|Pro][Acc], lemma=mindez}	mindez	N	[/N|Pro][Acc]	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	103	OBJ
+101	334	341	gyorsan	{ana=gyors[/Adj]=gyors+an[_Manner/Adv]=an, feats=[/Adj][_Manner/Adv], lemma=gyors}	gyors	Adj	[/Adj][_Manner/Adv]	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	103	MODE
+103	342	350	felejtse	{ana=fel[/Prev]=fel+ejt[/V]=ejt+se[Sbjv.Def.3Sg]=se, feats=[/V][Sbjv.Def.3Sg], lemma=felejt};{ana=felejt[/V]=felejt+se[Sbjv.Def.3Sg]=se, feats=[/V][Sbjv.Def.3Sg], lemma=felejt}	felejt	V	[/V][Sbjv.Def.3Sg]	SubPOS=m|Mood=i|Tense=s|Per=none|Num=none|Def=none	92	INF
+105	351	353	el	{ana=el[/Prev]=el, feats=[/Prev], lemma=el}	el	Prev	[/Prev]	_	103	PREVERB
+106	353	354	,	None	,	,	OTHER	_	116	ATT
+108	355	363	különben	{ana=külön[/Adj]=külön+ben[Ine]=ben, feats=[/Adj][Ine], lemma=külön};{ana=különb[/Adj]=különb+en[_Manner/Adv]=en, feats=[/Adj][_Manner/Adv], lemma=különb};{ana=különben[/Adv]=különben, feats=[/Adv], lemma=különben}	különben	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	116	MODE
+110	364	368	elég	{ana=el[/Prev]=el+ég[/V]=ég+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=elég};{ana=elég[/Adv]=elég, feats=[/Adv], lemma=elég};{ana=elég[/Num]=elég+[Nom], feats=[/Num][Nom], lemma=elég}	elég	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	112	MODE
+112	369	373	nagy	{ana=nagy[/Adj]=nagy+[Nom], feats=[/Adj][Nom], lemma=nagy};{ana=nagy[/Adv|AdjMod]=nagy, feats=[/Adv|AdjMod], lemma=nagy}	nagy	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	114	ATT
+114	374	384	meglepetés	{ana=meg[/Prev]=meg+lep[/V]=lep+et[_Caus/V]=et+és[_Ger/N]=és+[Nom], feats=[/N][Nom], lemma=meglepetés};{ana=meglepetés[/N]=meglepetés+[Nom], feats=[/N][Nom], lemma=meglepetés}	meglepetés	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	116	SUBJ
+116	385	390	fogja	{ana=fog[/V]=fog+ja[Prs.Def.3Sg]=ja, feats=[/V][Prs.Def.3Sg], lemma=fog};{ana=fog[/V]=fog+ja[Sbjv.Def.3Sg]=ja, feats=[/V][Sbjv.Def.3Sg], lemma=fog}	fog	V	[/V][Prs.Def.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=y		
+118	391	395	érni	{ana=ér[/V]=ér+ni[Inf]=ni, feats=[/V][Inf], lemma=ér};{ana=érik[/V]=ér+ni[Inf]=ni, feats=[/V][Inf], lemma=érik}	ér	V	[/V][Inf]	SubPOS=m|Mood=i|Tense=s|Per=none|Num=p|Def=n	116	INF
+119	395	396	.	None	.	.	OTHER	_	116	ATT
+										
+122	397	399	Az	{ana=az[/Det|Pro]=az+[Nom], feats=[/Det|Pro][Nom], lemma=az};{ana=az[/Det|art.Def]=az, feats=[/Det|art.Def], lemma=az};{ana=az[/N|Pro]=az+[Nom], feats=[/N|Pro][Nom], lemma=az}	az	Det	[/Det|art.Def]	SubPOS=f	124	DET
+124	400	406	ország	{ana=ország[/N]=ország+[Nom], feats=[/N][Nom], lemma=ország}	ország	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	126	ATT
+126	407	411	első	{ana=egy[/Num]=első+[_Ord/Adj]+[Nom], feats=[/Num][_Ord/Adj][Nom], lemma=egy}	egy	Num	[/Num][_Ord/Adj][Nom]	SubPOS=o|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	134	ATT
+128	412	414	és	{ana=és[/Cnj]=és, feats=[/Cnj], lemma=és}	és	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	126	CONJ
+130	415	416	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	132	DET
+132	417	424	négyből	{ana=négy[/Num]=négy+ből[Ela]=ből, feats=[/Num][Ela], lemma=négy}	négy	Num	[/Num][Ela]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	128	COORD
+134	425	429	máig	{ana=ma[/N]=má+ig[Ter]=ig, feats=[/N][Ter], lemma=ma}	ma	N	[/N][Ter]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	142	ATT
+136	430	432	az	{ana=az[/Det|Pro]=az+[Nom], feats=[/Det|Pro][Nom], lemma=az};{ana=az[/Det|art.Def]=az, feats=[/Det|art.Def], lemma=az};{ana=az[/N|Pro]=az+[Nom], feats=[/N|Pro][Nom], lemma=az}	az	Det	[/Det|art.Def]	SubPOS=f	142	DET
+138	433	441	egyetlen	{ana=egyetlen[/Num]=egyetlen+[Nom], feats=[/Num][Nom], lemma=egyetlen}	egyetlen	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	142	ATT
+140	442	452	nemzetközi	{ana=nemzet[/N]=nemzet+köz[/N]=köz+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=nemzetközi};{ana=nemzet[/N]=nemzet+közi[/Adj]=közi+[Nom], feats=[/Adj][Nom], lemma=nemzetközi};{ana=nemzetközi[/Adj]=nemzetközi+[Nom], feats=[/Adj][Nom], lemma=nemzetközi}	nemzetközi	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	142	ATT
+142	453	463	repülőtere	{ana=repül[/V]=repül+ő[_ImpfPtcp/Adj]=ő+tér[/N]=ter+e[Poss.3Sg]=e+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=repülőtér};{ana=repülő[/N]=repülő+tér[/N]=ter+e[Poss.3Sg]=e+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=repülőtér};{ana=repülő[/N]=repülő+tér[/N]=ter+e[Poss.3Sg]=e+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=repülőtér}	repülőtér	N	[/N][Poss.3Sg][Nom]	SubPOS=c|Num=s|Cas=n|NumP=s|PerP=3|NumPd=none		
+143	463	464	,	None	,	,	OTHER	_	142	ATT
+145	465	466	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	149	DET
+147	467	471	Paro	None	Paro	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	149	NE
+149	472	478	reptér	{ana=reptér[/N]=reptér+[Nom], feats=[/N][Nom], lemma=reptér}	reptér	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	151	ATT
+151	479	487	bevétele	{ana=bevétel[/N]=bevétel+e[Poss.3Sg]=e+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=bevétel}	bevétel	N	[/N][Poss.3Sg][Nom]	SubPOS=c|Num=s|Cas=n|NumP=s|PerP=3|NumPd=none	142	COORD
+153	488	495	ugyanis	{ana=ugyanis[/Cnj]=ugyanis, feats=[/Cnj], lemma=ugyanis}	ugyanis	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	151	CONJ
+155	496	502	minden	{ana=mind[/N|Pro]=mind+en[Supe]=en, feats=[/N|Pro][Supe], lemma=mind};{ana=minden[/Det|Q|indef]=minden, feats=[/Det|Q|indef], lemma=minden};{ana=minden[/N|Pro]=minden+[Nom], feats=[/N|Pro][Nom], lemma=minden}	minden	N	[/N|Pro][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	164	ATT
+156	502	503	,	None	,	,	OTHER	_	164	ATT
+158	504	508	csak	{ana=csak[/Adv]=csak, feats=[/Adv], lemma=csak}	csak	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	162	MODE
+160	509	512	nem	{ana=nem[/Adv]=nem, feats=[/Adv], lemma=nem};{ana=nem[/Inj-Utt]=nem, feats=[/Inj-Utt], lemma=nem};{ana=nem[/N]=nem+[Nom], feats=[/N][Nom], lemma=nem}	nem	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	162	NEG
+162	513	522	kényelmes	{ana=kényelem[/N]=kényelm+es[_Adjz:s/Adj]=es+[Nom], feats=[/Adj][Nom], lemma=kényelmes};{ana=kényelem[/N]=kényelm+es[_Nz:s/N]=es+[Nom], feats=[/N][Nom], lemma=kényelmes};{ana=kényelmes[/Adj]=kényelmes+[Nom], feats=[/Adj][Nom], lemma=kényelmes}	kényelmes	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	164	ATT
+164	523	535	rutinfeladat	{ana=rutin[/N]=rutin+feladat[/N]=feladat+[Nom], feats=[/N][Nom], lemma=rutinfeladat}	rutinfeladat	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	153	COORD
+165	535	536	.	None	.	.	OTHER	_	151	ATT
+										
+168	537	538	A	{ana=A[/N|Unit|Abbr]=A+[Nom], feats=[/N][Nom], lemma=A};{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	170	DET
+170	539	544	Parót	None	Parót	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	191	SUBJ
+172	545	552	eleinte	{ana=eleinte[/Adv]=eleinte, feats=[/Adv], lemma=eleinte}	eleinte	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	191	TLOCY
+174	553	557	csak	{ana=csak[/Adv]=csak, feats=[/Adv], lemma=csak}	csak	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	191	MODE
+176	558	559	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	182	DET
+178	560	567	bhutáni	{ana=Bhután[/N]=bhután+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=bhutáni}	bhutáni	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	182	ATT
+180	568	575	nemzeti	{ana=nemz[/V]=nemz+et[_Caus/V]=et+i[Prs.Def.3Sg]=i, feats=[/V][_Caus/V][Prs.Def.3Sg], lemma=nemz};{ana=nemzet[/N]=nemzet+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=nemzeti};{ana=nemzeti[/Adj]=nemzeti+[Nom], feats=[/Adj][Nom], lemma=nemzeti}	nemzeti	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	182	ATT
+182	576	588	légitársaság	{ana=lé[/N]=lé+gitár[/N]=gitár+sas[/N]=sas+ág[/N]=ág+[Nom], feats=[/N][Nom], lemma=légitársaság};{ana=légitársaság[/N]=légitársaság+[Nom], feats=[/N][Nom], lemma=légitársaság}	légitársaság	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	191	SUBJ
+183	588	589	,	None	,	,	OTHER	_	191	ATT
+185	590	591	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	189	DET
+187	592	596	Druk	None	Druk	N	[/N]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	189	ATT
+189	597	600	Air	{ana=Air[/N]=Air+[Nom], feats=[/N][Nom], lemma=Air};{ana=air[/X]=air, feats=[/X], lemma=air}	Air	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	191	SUBJ
+191	601	610	használta	{ana=használ[/V]=használ+ta[_Ger:tA/N]=t+a[Poss.3Sg]=a+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=használta};{ana=használ[/V]=használ+ta[Pst.Def.3Sg]=ta, feats=[/V][Pst.Def.3Sg], lemma=használ};{ana=használ[/V]=használ+ta[_PerfPtcp_Subj=tA/Adj]=ta+[Nom], feats=[_PerfPtcp_Subj=tA/Adj][Nom], lemma=használta}	használ	V	[/V][Pst.Def.3Sg]	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=y	203	ATT
+193	611	612	–	{ana=–[Hyph:Dash]=–, feats=[Hyph:Dash], lemma=–}	–	Hyph:Dash	[Hyph:Dash]	_	203	ATT
+195	613	615	az	{ana=az[/Det|Pro]=az+[Nom], feats=[/Det|Pro][Nom], lemma=az};{ana=az[/Det|art.Def]=az, feats=[/Det|art.Def], lemma=az};{ana=az[/N|Pro]=az+[Nom], feats=[/N|Pro][Nom], lemma=az}	az	Det	[/Det|art.Def]	SubPOS=f	203	DET
+197	616	620	első	{ana=egy[/Num]=első+[_Ord/Adj]+[Nom], feats=[/Num][_Ord/Adj][Nom], lemma=egy}	egy	Num	[/Num][_Ord/Adj][Nom]	SubPOS=o|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	203	ATT
+199	621	630	menetrend	{ana=menet[/N]=menet+rend[/N]=rend+[Nom], feats=[/N][Nom], lemma=menetrend};{ana=menetrend[/N]=menetrend+[Nom], feats=[/N][Nom], lemma=menetrend}	menetrend	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	201	ATT
+201	631	639	szerinti	{ana=szerint[/Post]=szerint+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=szerinti}	szerinti	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	203	ATT
+203	640	645	járat	{ana=jár[/V]=jár+at[_Caus/V]=at+[Prs.NDef.3Sg], feats=[/V][_Caus/V][Prs.NDef.3Sg], lemma=jár};{ana=járat[/N]=járat+[Nom], feats=[/N][Nom], lemma=járat};{ana=járat[/V]=járat+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=járat}	járat	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	207	SUBJ
+205	646	654	1983-ban	{ana=1[/Num|Digit]=1+9[/Num|Digit]=9+8[/Num|Digit]=8+3[/Num|Digit]=3-+ban[Ine]=ban, feats=[/Num|Digit][Ine], lemma=1983}	1983	Num	[/Num|Digit][Ine]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	207	OBL
+207	655	659	állt	{ana=áll[/V]=áll+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=áll};{ana=áll[/V]=áll+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=állt}	áll	V	[/V][Pst.NDef.3Sg]	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n		
+209	660	671	szolgálatba	{ana=szolgálat[/N]=szolgálat+ba[Ill]=ba, feats=[/N][Ill], lemma=szolgálat}	szolgálat	N	[/N][Ill]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	207	OBL
+211	672	673	–	{ana=–[Hyph:Dash]=–, feats=[Hyph:Dash], lemma=–}	–	Hyph:Dash	[Hyph:Dash]	_	214	ATT
+212	673	674	,	None	,	,	OTHER	_	214	ATT
+214	675	679	2011	{ana=2[/Num|Digit]=2+0[/Num|Digit]=0+1[/Num|Digit]=1+1[/Num|Digit]=1+[Nom], feats=[/Num|Digit][Nom], lemma=2011}	2011	Num	[/Num|Digit][Nom]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	216	ATT
+216	680	683	óta	{ana=óta[/Post]=óta, feats=[/Post], lemma=óta}	óta	Post	[/Post]	SubPOS=t	228	TFROM
+218	684	687	már	{ana=már[/Adv]=már, feats=[/Adv], lemma=már}	már	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	228	TLOCY
+220	688	694	néhány	{ana=néhány[/Num]=néhány+[Nom], feats=[/Num][Nom], lemma=néhány}	néhány	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	224	ATT
+222	695	698	más	{ana=más[/Adj|Pro]=más+[Nom], feats=[/Adj|Pro][Nom], lemma=más};{ana=más[/N|Pro]=más+[Nom], feats=[/N|Pro][Nom], lemma=más}	más	N	[/N|Pro][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	224	ATT
+224	699	702	cég	{ana=cég[/N]=cég+[Nom], feats=[/N][Nom], lemma=cég}	cég	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	228	SUBJ
+226	703	705	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is}	is	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	224	CONJ
+228	706	710	tart	{ana=tar[/Adj]=tar+t[Acc]=t, feats=[/Adj][Acc], lemma=tar};{ana=tart[/V]=tart+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=tart}	tart	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	207	COORD
+230	711	715	fenn	{ana=fenn[/Adv]=fenn, feats=[/Adv], lemma=fenn};{ana=fenn[/Prev]=fenn, feats=[/Prev], lemma=fenn};{ana=fenn[/Prev]=fenn, feats=[/Prev], lemma=fenn}	fenn	Prev	[/Prev]	_	228	PREVERB
+232	716	725	járatokat	{ana=járat[/N]=járat+ok[Pl]=ok+at[Acc]=at, feats=[/N][Pl][Acc], lemma=járat}	járat	N	[/N][Pl][Acc]	SubPOS=c|Num=p|Cas=a|NumP=none|PerP=none|NumPd=none	228	OBJ
+233	725	726	.	None	.	.	OTHER	_	228	ATT
+										
+236	727	728	A	{ana=A[/N|Unit|Abbr]=A+[Nom], feats=[/N][Nom], lemma=A};{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	238	DET
+238	729	738	leszállás	{ana=le[/Prev]=le+száll[/V]=száll+ás[_Ger/N]=ás+[Nom], feats=[/N][Nom], lemma=leszállás};{ana=leszállás[/N]=leszállás+[Nom], feats=[/N][Nom], lemma=leszállás}	leszállás	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	277	SUBJ
+240	739	749	ugyanakkor	{ana=ugyanakkor[/Adv|Pro]=ugyanakkor, feats=[/Adv|Pro], lemma=ugyanakkor};{ana=ugyanakkor[/Cnj]=ugyanakkor, feats=[/Cnj], lemma=ugyanakkor};{ana=ugyanaz[/Det|Pro]=ugyanak+kor[Temp]=kor, feats=[/Det|Pro][Temp], lemma=ugyanaz};{ana=ugyanaz[/N|Pro]=ugyanak+kor[Temp]=kor, feats=[/N|Pro][Temp], lemma=ugyanaz}	ugyanakkor	Adv	[/Adv|Pro]	SubPOS=d|Deg=none|Num=none|Per=none	277	TLOCY
+242	750	752	az	{ana=az[/Det|Pro]=az+[Nom], feats=[/Det|Pro][Nom], lemma=az};{ana=az[/Det|art.Def]=az, feats=[/Det|art.Def], lemma=az};{ana=az[/N|Pro]=az+[Nom], feats=[/N|Pro][Nom], lemma=az}	az	Det	[/Det|art.Def]	SubPOS=f	248	DET
+244	753	759	extrém	{ana=extrém[/Adj]=extrém+[Nom], feats=[/Adj][Nom], lemma=extrém}	extrém	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	248	ATT
+246	760	769	földrajzi	{ana=föld[/N]=föld+rajz[/N]=rajz+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=földrajzi};{ana=földrajz[/N]=földrajz+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=földrajzi};{ana=földrajzi[/Adj]=földrajzi+[Nom], feats=[/Adj][Nom], lemma=földrajzi}	földrajzi	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	248	ATT
+248	770	780	adottságai	{ana=adott[/Adj]=adott+ság[_Nz_Abstr/N]=ság+ai[Pl.Poss.3Sg]=ai+[Nom], feats=[/N][Pl.Poss.3Sg][Nom], lemma=adottság};{ana=adottság[/N]=adottság+ai[Pl.Poss.3Sg]=ai+[Nom], feats=[/N][Pl.Poss.3Sg][Nom], lemma=adottság}	adottság	N	[/N][Pl.Poss.3Sg][Nom]	SubPOS=c|Num=p|Cas=n|NumP=s|PerP=3|NumPd=none	250	ATT
+250	781	786	miatt	{ana=miatt[/Post]=miatt, feats=[/Post], lemma=miatt}	miatt	Post	[/Post]	SubPOS=t	252	MODE
+252	787	792	olyan	{ana=olyan[/Adj|Pro]=olyan+[Nom], feats=[/Adj|Pro][Nom], lemma=olyan}	olyan	Adj	[/Adj|Pro][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	267	ATT
+254	793	798	nehéz	{ana=nehéz[/Adj]=nehéz+[Nom], feats=[/Adj][Nom], lemma=nehéz}	nehéz	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	267	ATT
+255	798	799	,	None	,	,	OTHER	_	254	ATT
+257	800	804	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy}	hogy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	254	CONJ
+259	805	806	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	263	DET
+261	807	813	néhány	{ana=néhány[/Num]=néhány+[Nom], feats=[/Num][Nom], lemma=néhány}	néhány	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	263	ATT
+263	814	819	évvel	{ana=év[/N]=év+vel[Ins]=vel, feats=[/N][Ins], lemma=év}	év	N	[/N][Ins]	SubPOS=c|Num=s|Cas=i|NumP=none|PerP=none|NumPd=none	265	OBL
+265	820	828	ezelőtti	{ana=ez[/Det|Pro]=ez+előtt[/Post]=előtt+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=ezelőtti};{ana=ez[/N|Pro]=ez+előtt[/Post]=előtt+[/Adv|Pro]+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=ezelőtti};{ana=ez[/N|Pro]=ez+előtt[/Post]=előtt+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=ezelőtti}	ezelőtti	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	257	ATT
+267	829	835	adatok	{ana=ad[/V]=ad+at[_Caus/V]=at+ok[Prs.NDef.1Sg]=ok, feats=[/V][_Caus/V][Prs.NDef.1Sg], lemma=ad};{ana=adat[/N]=adat+ok[Pl]=ok+[Nom], feats=[/N][Pl][Nom], lemma=adat};{ana=adatik[/V]=adat+ok[Prs.NDef.1Sg]=ok, feats=[/V][Prs.NDef.1Sg], lemma=adatik}	adat	N	[/N][Pl][Nom]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	269	ATT
+269	836	843	szerint	{ana=szerin[/N]=szerin+t[Acc]=t, feats=[/N][Acc], lemma=szerin};{ana=szerint[/Post]=szerint, feats=[/Post], lemma=szerint}	szerint	Post	[/Post]	SubPOS=t	277	MODE
+271	844	848	csak	{ana=csak[/Adv]=csak, feats=[/Adv], lemma=csak}	csak	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	273	MODE
+273	849	854	nyolc	{ana=nyolc[/Num]=nyolc+[Nom], feats=[/Num][Nom], lemma=nyolc}	nyolc	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	275	ATT
+275	855	864	pilótának	{ana=pilóta[/N]=pilótá+nak[Dat]=nak, feats=[/N][Dat], lemma=pilóta}	pilóta	N	[/N][Dat]	SubPOS=c|Num=s|Cas=g|NumP=none|PerP=none|NumPd=none	277	ATT
+277	865	869	volt	{ana=van[/V]=vol+t[Pst.NDef.3Sg]=t, feats=[/V][Pst.NDef.3Sg], lemma=van};{ana=van[/V]=vol+t[_PerfPtcp/Adj]=t+[Nom], feats=[/Adj][Nom], lemma=volt};{ana=volt[/Adj|Attr]=volt+[Nom], feats=[/Adj|Attr][Nom], lemma=volt};{ana=volt[/N|Unit]=volt+[Nom], feats=[/N][Nom], lemma=volt}	van	V	[/V][Pst.NDef.3Sg]	SubPOS=m|Mood=i|Tense=s|Per=3|Num=s|Def=n		
+279	870	879	engedélye	{ana=engedély[/N]=engedély+e[Poss.3Sg]=e+[Nom], feats=[/N][Poss.3Sg][Nom], lemma=engedély}	engedély	N	[/N][Poss.3Sg][Nom]	SubPOS=c|Num=s|Cas=n|NumP=s|PerP=3|NumPd=none	277	SUBJ
+281	880	881	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	283	DET
+283	882	889	világon	{ana=világ[/N]=világ+on[Supe]=on, feats=[/N][Supe], lemma=világ}	világ	N	[/N][Supe]	SubPOS=c|Num=s|Cas=p|NumP=none|PerP=none|NumPd=none	288	OBL
+284	889	890	,	None	,	,	OTHER	_	277	ATT
+286	891	895	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy}	hogy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	277	CONJ
+288	896	908	landolhasson	{ana=landol[/V]=landol+hat[_Mod/V]=has+son[Sbjv.NDef.3Sg]=son, feats=[/V][_Mod/V][Sbjv.NDef.3Sg], lemma=landol}	landol	V	[/V][_Mod/V][Sbjv.NDef.3Sg]	SubPOS=o|Mood=i|Tense=s|Per=none|Num=none|Def=none	286	ATT
+290	909	912	ott	{ana=ott[/Adv|Pro]=ott, feats=[/Adv|Pro], lemma=ott};{ana=ott[/Prev]=ott, feats=[/Prev], lemma=ott}	ott	Prev	[/Prev]	_	288	PREVERB
+291	912	913	.	None	.	.	OTHER	_	277	ATT
+										
+294	914	915	A	{ana=A[/N|Unit|Abbr]=A+[Nom], feats=[/N][Nom], lemma=A};{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	296	DET
+296	916	922	reptér	{ana=reptér[/N]=reptér+[Nom], feats=[/N][Nom], lemma=reptér}	reptér	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	304	SUBJ
+298	923	927	2200	{ana=2[/Num|Digit]=2+2[/Num|Digit]=2+00[/Num|Digit]=00+[Nom], feats=[/Num|Digit][Nom], lemma=2200}	2200	Num	[/Num|Digit][Nom]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	300	ATT
+300	928	935	méteres	{ana=méter[/N|Unit]=méter+es[_Adjz:s/Adj]=es+[Nom], feats=[/Adj][Nom], lemma=méteres};{ana=méter[/N|Unit]=méter+es[_Nz:s/N]=es+[Nom], feats=[/N][Nom], lemma=méteres};{ana=méteres[/Adj|Unit]=méteres+[Nom], feats=[/Adj|Unit][Nom], lemma=méteres}	méteres	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	302	ATT
+302	936	947	magasságban	{ana=magas[/Adj]=magas+ság[_Nz_Abstr/N]=ság+ban[Ine]=ban, feats=[/N][Ine], lemma=magasság};{ana=magas[/N]=magas+ság[_Nz_Abstr/N]=ság+ban[Ine]=ban, feats=[/N][Ine], lemma=magasság};{ana=magasság[/N]=magasság+ban[Ine]=ban, feats=[/N][Ine], lemma=magasság}	magasság	N	[/N][Ine]	SubPOS=c|Num=s|Cas=2|NumP=none|PerP=none|NumPd=none	304	OBL
+304	948	955	fekszik	{ana=fekszik[/V]=feksz+ik[Prs.Def.3Pl]=ik, feats=[/V][Prs.Def.3Pl], lemma=fekszik};{ana=fekszik[/V]=feksz+ik[Prs.NDef.3Sg]=ik, feats=[/V][Prs.NDef.3Sg], lemma=fekszik}	fekszik	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n		
+305	955	956	,	None	,	,	OTHER	_	304	ATT
+307	957	960	egy	{ana=egy[/Det|art.NDef]=egy, feats=[/Det|art.NDef], lemma=egy};{ana=egy[/Num]=egy+[Nom], feats=[/Num][Nom], lemma=egy};{ana=egy[/N|Pro]=egy+[Nom], feats=[/N|Pro][Nom], lemma=egy}	egy	Det	[/Det|art.NDef]	SubPOS=f	311	DET
+309	961	965	mély	{ana=mély[/Adj]=mély+[Nom], feats=[/Adj][Nom], lemma=mély};{ana=mély[/N|def]=mély+[Nom], feats=[/N][Nom], lemma=mély}	mély	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	311	ATT
+311	966	974	völgyben	{ana=völgy[/N]=völgy+ben[Ine]=ben, feats=[/N][Ine], lemma=völgy}	völgy	N	[/N][Ine]	SubPOS=c|Num=s|Cas=2|NumP=none|PerP=none|NumPd=none	322	OBL
+312	974	975	,	None	,	,	OTHER	_	322	ATT
+314	976	983	amelyet	{ana=amely[/N|Pro|Rel]=amely+et[Acc]=et, feats=[/N|Pro|Rel][Acc], lemma=amely}	amely	N	[/N|Pro|Rel][Acc]	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	322	OBJ
+316	984	988	5500	{ana=5[/Num|Digit]=5+5[/Num|Digit]=5+00[/Num|Digit]=00+[Nom], feats=[/Num|Digit][Nom], lemma=5500}	5500	Num	[/Num|Digit][Nom]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	318	ATT
+318	989	996	méteres	{ana=méter[/N|Unit]=méter+es[_Adjz:s/Adj]=es+[Nom], feats=[/Adj][Nom], lemma=méteres};{ana=méter[/N|Unit]=méter+es[_Nz:s/N]=es+[Nom], feats=[/N][Nom], lemma=méteres};{ana=méteres[/Adj|Unit]=méteres+[Nom], feats=[/Adj|Unit][Nom], lemma=méteres}	méteres	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	320	ATT
+320	997	1008	hegycsúcsok	{ana=hegy[/N]=hegy+csúcs[/N]=csúcs+ok[Pl]=ok+[Nom], feats=[/N][Pl][Nom], lemma=hegycsúcs};{ana=hegycsúcs[/N]=hegycsúcs+ok[Pl]=ok+[Nom], feats=[/N][Pl][Nom], lemma=hegycsúcs}	hegycsúcs	N	[/N][Pl][Nom]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	322	SUBJ
+322	1009	1016	vesznek	{ana=vesz[/V]=vesz+nek[Prs.NDef.3Pl]=nek, feats=[/V][Prs.NDef.3Pl], lemma=vesz};{ana=veszik[/V]=vesz+nek[Prs.NDef.3Pl]=nek, feats=[/V][Prs.NDef.3Pl], lemma=veszik}	vesz	V	[/V][Prs.NDef.3Pl]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=p|Def=n	304	COORD
+324	1017	1022	körbe	{ana=kör[/N]=kör+be[Ill]=be, feats=[/N][Ill], lemma=kör};{ana=körbe[/Prev]=körbe, feats=[/Prev], lemma=körbe}	kör	N	[/N][Ill]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	322	OBL
+325	1022	1023	,	None	,	,	OTHER	_	322	ATT
+327	1024	1030	emiatt	{ana=ez[/N|Pro]=e+miatt[/Post]=miatt+[/Adv|Pro], feats=[/Adv|Pro], lemma=emiatt}	emiatt	Adv	[/Adv|Pro]	SubPOS=d|Deg=none|Num=none|Per=none	322	MODE
+329	1031	1036	sokat	{ana=sok[/Num]=sok+at[Acc]=at, feats=[/Num][Acc], lemma=sok}	sok	Num	[/Num][Acc]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	322	OBJ
+331	1037	1039	és	{ana=és[/Cnj]=és, feats=[/Cnj], lemma=és}	és	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	322	CONJ
+333	1040	1044	erős	{ana=erő[/N]=erő+s[_Adjz:s/Adj]=s+[Nom], feats=[/Adj][Nom], lemma=erős};{ana=erő[/N]=erő+s[_Nz:s/N]=s+[Nom], feats=[/N][Nom], lemma=erős};{ana=erős[/Adj]=erős+[Nom], feats=[/Adj][Nom], lemma=erős}	erős	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	335	ATT
+335	1045	1052	szélben	{ana=szél[/N]=szél+ben[Ine]=ben, feats=[/N][Ine], lemma=szél}	szél	N	[/N][Ine]	SubPOS=c|Num=s|Cas=2|NumP=none|PerP=none|NumPd=none	339	OBL
+337	1053	1057	kell	{ana=kell[/V]=kell+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=kell}	kell	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	331	COORD
+339	1058	1069	manőverezni	{ana=manőver[/N]=manőver+ez[_NVbz_Tr:z/V]=ez+ni[Inf]=ni, feats=[/V][Inf], lemma=manőverez};{ana=manőver[/N]=manőver+ezik[_NVbz_Ntr:zik/V]=ez+ni[Inf]=ni, feats=[/V][Inf], lemma=manőverezik};{ana=manőverez[/V]=manőverez+ni[Inf]=ni, feats=[/V][Inf], lemma=manőverez}	manőverez	V	[/V][Inf]	SubPOS=m|Mood=i|Tense=s|Per=none|Num=p|Def=n	337	INF
+340	1069	1070	,	None	,	,	OTHER	_	337	ATT
+342	1071	1079	miközben	{ana=miközben[/Adv|Pro|Rel]=miközben, feats=[/Adv|Pro|Rel], lemma=miközben}	miközben	Adv	[/Adv|Pro|Rel]	SubPOS=x|Deg=none|Num=none|Per=none	373	TLOCY
+344	1080	1081	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	346	DET
+346	1082	1085	gép	{ana=gép[/N]=gép+[Nom], feats=[/N][Nom], lemma=gép}	gép	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	373	SUBJ
+348	1086	1087	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	350	DET
+350	1088	1102	hegyoldalaktól	{ana=hegy[/N]=hegy+oldal[/N]=oldal+ak[Pl]=ak+tól[Abl]=tól, feats=[/N][Pl][Abl], lemma=hegyoldal};{ana=hegy[/N]=hegy+oldal[/N]=oldal+akt[/N]=akt+ól[/N]=ól+[Nom], feats=[/N][Nom], lemma=hegyoldalaktól};{ana=hegyoldal[/N]=hegyoldal+ak[Pl]=ak+tól[Abl]=tól, feats=[/N][Pl][Abl], lemma=hegyoldal};{ana=hegyoldal[/N]=hegyoldal+akt[/N]=akt+ól[/N]=ól+[Nom], feats=[/N][Nom], lemma=hegyoldalaktól}	hegyoldal	N	[/N][Pl][Abl]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	346	ATT
+351	1102	1103	,	None	,	,	OTHER	_	350	ATT
+353	1104	1108	majd	{ana=majd[/Adv]=majd, feats=[/Adv], lemma=majd}	majd	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	350	CONJ
+355	1109	1110	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	361	DET
+357	1111	1117	reptér	{ana=reptér[/N]=reptér+[Nom], feats=[/N][Nom], lemma=reptér}	reptér	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	359	ATT
+359	1118	1124	körüli	{ana=körül[/Post]=körül+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=körüli}	körüli	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	361	ATT
+361	1125	1133	házaktól	{ana=ház[/N]=ház+ak[Pl]=ak+tól[Abl]=tól, feats=[/N][Pl][Abl], lemma=ház};{ana=ház[/N]=ház+akt[/N]=akt+ól[/N]=ól+[Nom], feats=[/N][Nom], lemma=házaktól}	ház	N	[/N][Pl][Abl]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	353	COORD
+363	1134	1136	is	{ana=is[/Adv]=is, feats=[/Adv], lemma=is}	is	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	361	CONJ
+365	1137	1141	csak	{ana=csak[/Adv]=csak, feats=[/Adv], lemma=csak}	csak	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	371	MODE
+367	1142	1145	pár	{ana=pár[/N]=pár+[Nom], feats=[/N][Nom], lemma=pár};{ana=pár[/Num]=pár+[Nom], feats=[/Num][Nom], lemma=pár}	pár	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	369	ATT
+369	1146	1150	száz	{ana=száz[/Num]=száz+[Nom], feats=[/Num][Nom], lemma=száz}	száz	Num	[/Num][Nom]	SubPOS=c|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	371	ATT
+371	1151	1158	méterre	{ana=méter[/N|Unit]=méter+re[Subl]=re, feats=[/N][Subl], lemma=méter}	méter	N	[/N][Subl]	SubPOS=c|Num=s|Cas=s|NumP=none|PerP=none|NumPd=none	373	OBL
+373	1159	1164	halad	{ana=hal[/N]=hal+ad[Poss.2Sg]=ad+[Nom], feats=[/N][Poss.2Sg][Nom], lemma=hal};{ana=halad[/V]=halad+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=halad}	halad	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n	337	ATT
+375	1165	1167	el	{ana=el[/Prev]=el, feats=[/Prev], lemma=el}	el	Prev	[/Prev]	_	373	PREVERB
+376	1167	1168	.	None	.	.	OTHER	_	304	ATT
+										
+379	1169	1170	A	{ana=A[/N|Unit|Abbr]=A+[Nom], feats=[/N][Nom], lemma=A};{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	381	DET
+381	1171	1182	landoláshoz	{ana=landol[/V]=landol+ás[_Ger/N]=ás+hoz[All]=hoz, feats=[/N][All], lemma=landolás}	landolás	N	[/N][All]	SubPOS=c|Num=s|Cas=t|NumP=none|PerP=none|NumPd=none	407	OBL
+383	1183	1188	pedig	{ana=pedig[/Cnj]=pedig, feats=[/Cnj], lemma=pedig}	pedig	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	407	CONJ
+385	1189	1192	egy	{ana=egy[/Det|art.NDef]=egy, feats=[/Det|art.NDef], lemma=egy};{ana=egy[/Num]=egy+[Nom], feats=[/Num][Nom], lemma=egy};{ana=egy[/N|Pro]=egy+[Nom], feats=[/N|Pro][Nom], lemma=egy}	egy	Det	[/Det|art.NDef]	SubPOS=f	390	DET
+387	1193	1200	keskeny	{ana=keskeny[/Adj]=keskeny+[Nom], feats=[/Adj][Nom], lemma=keskeny}	keskeny	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	390	ATT
+388	1200	1201	,	None	,	,	OTHER	_	390	ATT
+390	1202	1211	kezdetben	{ana=kezdet[/N]=kezdet+ben[Ine]=ben, feats=[/N][Ine], lemma=kezdet}	kezdet	N	[/N][Ine]	SubPOS=c|Num=s|Cas=2|NumP=none|PerP=none|NumPd=none	411	OBL
+392	1212	1221	mindössze	{ana=mindössze[/Adv]=mindössze, feats=[/Adv], lemma=mindössze}	mindössze	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	394	MODE
+394	1222	1225	1,2	{ana=1[/Num|Digit]=1+,[/Num|Digit]=,+2[/Num|Digit]=2+[Nom], feats=[/Num|Digit][Nom], lemma=1,2}	1,2	Num	[/Num|Digit][Nom]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	401	ATT
+395	1225	1226	,	None	,	,	OTHER	_	401	ATT
+397	1227	1229	ma	{ana=ma[/Adv]=ma, feats=[/Adv], lemma=ma};{ana=ma[/N]=ma+[Nom], feats=[/N][Nom], lemma=ma};{ana=ma[/N]=ma+[_Tmp_Loc/Adv], feats=[/N][_Tmp_Loc/Adv], lemma=ma}	ma	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	411	TLOCY
+399	1230	1231	2	{ana=2[/Num|Digit]=2+[Nom], feats=[/Num|Digit][Nom], lemma=2}	2	Num	[/Num|Digit][Nom]	SubPOS=f|Num=s|Cas=n|Form=d|NumP=none|PerP=none|NumPd=none	401	ATT
+401	1232	1241	kilométer	{ana=kilo[/CmpdPfx]=kilo+méter[/N|Unit]=méter+[Nom], feats=[/N][Nom], lemma=kilométer};{ana=kilométer[/N|Unit]=kilométer+[Nom], feats=[/N][Nom], lemma=kilométer}	kilométer	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	405	ATT
+403	1242	1248	hosszú	{ana=hossz[/N]=hossz+ú[_Adjz:Ú/Adj]=ú+[Nom], feats=[/N][_Adjz:Ú/Adj][Nom], lemma=hossz};{ana=hosszú[/Adj]=hosszú+[Nom], feats=[/Adj][Nom], lemma=hosszú}	hosszú	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	405	ATT
+405	1249	1255	pályát	{ana=pálya[/N]=pályá+t[Acc]=t, feats=[/N][Acc], lemma=pálya}	pálya	N	[/N][Acc]	SubPOS=c|Num=s|Cas=a|NumP=none|PerP=none|NumPd=none	411	OBJ
+407	1256	1260	kell	{ana=kell[/V]=kell+[Prs.NDef.3Sg], feats=[/V][Prs.NDef.3Sg], lemma=kell}	kell	V	[/V][Prs.NDef.3Sg]	SubPOS=m|Mood=i|Tense=p|Per=3|Num=s|Def=n		
+409	1261	1269	pontosan	{ana=pont[/N]=pont+os[_Adjz:s/Adj]=os+an[_Manner/Adv]=an, feats=[/Adj][_Manner/Adv], lemma=pontos};{ana=pontos[/Adj]=pontos+an[_Manner/Adv]=an, feats=[/Adj][_Manner/Adv], lemma=pontos}	pontos	Adj	[/Adj][_Manner/Adv]	SubPOS=f|Deg=p|Num=s|Cas=w|NumP=none|PerP=none|NumPd=none	411	MODE
+411	1270	1279	eltalálni	{ana=el[/Prev]=el+talál[/V]=talál+ni[Inf]=ni, feats=[/V][Inf], lemma=eltalál}	eltalál	V	[/V][Inf]	SubPOS=m|Mood=i|Tense=s|Per=none|Num=p|Def=n	407	INF
+412	1279	1280	.	None	.	.	OTHER	_	407	ATT
+										
+415	1281	1284	Nem	{ana=nem[/Adv]=nem, feats=[/Adv], lemma=nem};{ana=nem[/Inj-Utt]=nem, feats=[/Inj-Utt], lemma=nem};{ana=nem[/N]=nem+[Nom], feats=[/N][Nom], lemma=nem}	nem	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	417	NEG
+417	1285	1290	csoda	{ana=csoda[/N]=csoda+[Nom], feats=[/N][Nom], lemma=csoda}	csoda	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none		
+418	1290	1291	,	None	,	,	OTHER	_	417	ATT
+420	1292	1296	hogy	{ana=ahogy[/Adv|Pro|Rel]=hogy, feats=[/Adv|Pro|Rel], lemma=ahogy};{ana=hogy[/Adv|Pro|Int]=hogy, feats=[/Adv|Pro|Int], lemma=hogy};{ana=hogy[/Cnj]=hogy, feats=[/Cnj], lemma=hogy}	hogy	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	417	CONJ
+422	1297	1301	csak	{ana=csak[/Adv]=csak, feats=[/Adv], lemma=csak}	csak	Adv	[/Adv]	SubPOS=x|Deg=none|Num=none|Per=none	424	MODE
+424	1302	1308	nappal	{ana=nap[/N]=nap+pal[Ins]=pal, feats=[/N][Ins], lemma=nap};{ana=nappal[/Adv]=nappal, feats=[/Adv], lemma=nappal};{ana=nappal[/N]=nappal+[Nom], feats=[/N][Nom], lemma=nappal};{ana=nappal[/N]=nappal+[_Tmp_Loc/Adv], feats=[/N][_Tmp_Loc/Adv], lemma=nappal}	nap	N	[/N][Ins]	SubPOS=c|Num=s|Cas=i|NumP=none|PerP=none|NumPd=none	420	ATT
+426	1309	1311	és	{ana=és[/Cnj]=és, feats=[/Cnj], lemma=és}	és	Cnj	[/Cnj]	SubPOS=c|Form=s|Coord=w	424	CONJ
+428	1312	1314	jó	{ana=jó[/Adj]=jó+[Nom], feats=[/Adj][Nom], lemma=jó};{ana=jó[/Adv]=jó, feats=[/Adv], lemma=jó};{ana=jó[/Inj-Utt]=jó, feats=[/Inj-Utt], lemma=jó}	jó	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	432	ATT
+430	1315	1321	látási	{ana=lát[/V]=lát+ás[_Ger/N]=ás+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=látási};{ana=látás[/N]=látás+i[_Adjz:i/Adj]=i+[Nom], feats=[/Adj][Nom], lemma=látási};{ana=látási[/Adj]=látási+[Nom], feats=[/Adj][Nom], lemma=látási}	látási	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	432	ATT
+432	1322	1331	viszonyok	{ana=viszony[/N]=viszony+ok[Pl]=ok+[Nom], feats=[/N][Pl][Nom], lemma=viszony}	viszony	N	[/N][Pl][Nom]	SubPOS=c|Num=p|Cas=n|NumP=none|PerP=none|NumPd=none	434	ATT
+434	1332	1338	között	{ana=között[/Post]=között, feats=[/Post], lemma=között}	között	Post	[/Post]	SubPOS=t	436	MODE
+436	1339	1350	használható	{ana=használ[/V]=használ+ható[_ModPtcp/Adj]=ható+[Nom], feats=[/Adj][Nom], lemma=használható};{ana=használható[/Adj]=használható+[Nom], feats=[/Adj][Nom], lemma=használható}	használható	Adj	[/Adj][Nom]	SubPOS=f|Deg=p|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	426	COORD
+438	1351	1352	a	{ana=a[/Det|Pro|(Post)]=a, feats=[/Det|Pro|(Post)], lemma=a};{ana=a[/Det|art.Def]=a, feats=[/Det|art.Def], lemma=a};{ana=a[/N|Ltr]=a+[Nom], feats=[/N][Nom], lemma=a};{ana=a[/N|Pro|(Post)]=a+[Nom], feats=[/N|Pro|(Post)][Nom], lemma=a}	a	Det	[/Det|art.Def]	SubPOS=f	440	DET
+440	1353	1359	reptér	{ana=reptér[/N]=reptér+[Nom], feats=[/N][Nom], lemma=reptér}	reptér	N	[/N][Nom]	SubPOS=c|Num=s|Cas=n|NumP=none|PerP=none|NumPd=none	441	ATT
+441	1359	1360	.	None	.	.	OTHER	_	417	ATT
+										
